@@ -1,0 +1,22 @@
+table,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+.middle{
+    text-align: center;
+}
+h1{
+    display: table;
+    color: red;
+    background-color: black;
+    border: 2px solid green;
+    padding: 10px;
+}
+h1,table{
+    margin-left: auto;
+    margin-right: auto;
+}
+thead{
+    background-color: skyblue;
+}
